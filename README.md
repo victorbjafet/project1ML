@@ -1,2 +1,1 @@
-# project1ML
-taken from my kaggle project, see readme for link
+taken from my kaggle project: https://www.kaggle.com/code/victorjafet/housing
